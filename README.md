@@ -1,6 +1,6 @@
 # E-Com Power BI Dashboard
 
-![Dashboard 1]([./images/Screenshot_2025-02-08_211711.png](https://github.com/ankon35/E-Com_Sales_Dashboard/blob/main/Customer%20Overview.png))
+![Dashboard 1](Customer Overview.png))
 ![Dashboard 2](./images/Screenshot_2025-02-08_211611.png)
 
 ## Overview
