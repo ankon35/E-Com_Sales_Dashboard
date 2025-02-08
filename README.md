@@ -1,7 +1,7 @@
 # E-Com Power BI Dashboard
 
-![Dashboard 1](Customer Overview.png)
-![Dashboard 2](Sales Overview.png)
+![Dashboard 1](Customer%20Overview.png)
+![Dashboard 2](Sales%200Overview.png)
 
 ## Overview
 
