@@ -1,4 +1,4 @@
-# E-Com Power BI Dashboard
+# Ecommerce Power BI Dashboard
 
 ## Sales Dashboard
 ![Sales Dashboard](Sales%20Overview.png)
